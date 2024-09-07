@@ -36,7 +36,7 @@ function pesquisar() {
       `;
     }
       }
-      
+      //se titulo includes campoPesquisa
       if (!resultados) {
        resultados = "<p>Você esta com sorte, nada foi encontrado.</p>"
       }
